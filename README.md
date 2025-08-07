@@ -15,10 +15,10 @@ Características principales implementadas en esta fase inicial:
 # Vistas
 
 - Login
-<img width="822" height="712" alt="Login" src="https://github.com/user-attachments/assets/f7c1aa5c-9d5c-42be-8b89-0724ce1bc5e4" />
+<img width="500" height="712" alt="Login" src="https://github.com/user-attachments/assets/f7c1aa5c-9d5c-42be-8b89-0724ce1bc5e4" />
 
 - Registro
-<img width="799" height="799" alt="Registro" src="https://github.com/user-attachments/assets/671e899d-04da-4dc5-b308-3285d04326ed" />
+<img width="500" height="799" alt="Registro" src="https://github.com/user-attachments/assets/671e899d-04da-4dc5-b308-3285d04326ed" />
 
 
 En futuras iteraciones se agregarán funcionalidades como autenticación de usuarios, consumo de API externa para noticias reales y manejo de sesiones.
